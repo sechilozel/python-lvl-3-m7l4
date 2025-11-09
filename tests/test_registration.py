@@ -81,7 +81,7 @@ def test_nonexistentuser_authentication(setup_database, connection):
 """
 Var olan bir kullanıcı adıyla kullanıcı eklemeye çalışmayı test etme. +??
 Başarılı kullanıcı doğrulamasını test etme. ++?
-Var olmayan bir kullanıcıyla doğrulama yapmayı test etme.
+Var olmayan bir kullanıcıyla doğrulama yapmayı test etme.+++
 Yanlış şifreyle doğrulama yapmayı test etme. +++
 Kullanıcı listesinin doğru şekilde görüntülenmesini test etme. +++
 """
